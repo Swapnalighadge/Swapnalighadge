@@ -1,4 +1,4 @@
-![loga]()
+![logo](https://github.com/Swapnalighadge/Swapnalighadge/blob/main/background.jpg)
 <h1 align="center">Hi 👋, I'm Swapnali Ghadge</h1>
 <h3 align="center">A Passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
