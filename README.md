@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnalighadge&label=Profile%20views&color=0e75b6&style=flat" alt="swapnalighadge" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,SpringBoot**
+- 🌱 I’m currently learning **Js,Spring,Hibernate**
 
 - 📫 How to reach me **swapnalimahadeoghadge@gmail.com**
 
